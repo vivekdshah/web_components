@@ -1,6 +1,6 @@
 name: web_custom_components
 description: "Web custom Components  for your website."
-version: 0.0.2
+version: 0.0.3
 homepage: https://github.com/vivekdshah/web_components
 
 environment:
