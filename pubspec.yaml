@@ -1,6 +1,6 @@
 name: web_custom_components
-description: "Web Inbuilt Components  for your website."
-version: 0.0.1
+description: "Web custom Components  for your website."
+version: 0.0.2
 homepage: https://github.com/vivekdshah/web_components
 
 environment:

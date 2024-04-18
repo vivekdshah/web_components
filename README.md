@@ -5,7 +5,7 @@ Web Inbuilt Components  for your website.
 
 ## Features
 
- - Customer Header
+ - Custom Header
 
 ## Getting started
 
