@@ -1,7 +1,7 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:web_components/web_components_platform_interface.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
+import 'package:web_custom_components/web_components_platform_interface.dart';
 
 class MockWebComponentsPlatform
     with MockPlatformInterfaceMixin
