@@ -1,7 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:web_components/web_components.dart';
+
 import 'package:web_components/web_components_platform_interface.dart';
-import 'package:web_components/web_components_method_channel.dart';
 import 'package:plugin_platform_interface/plugin_platform_interface.dart';
 
 class MockWebComponentsPlatform
@@ -13,7 +12,6 @@ class MockWebComponentsPlatform
 }
 
 void main() {
-  final WebComponentsPlatform initialPlatform = WebComponentsPlatform.instance;
 
   // test('$MethodChannelWebComponents is the default instance', () {
   //   expect(initialPlatform, isInstanceOf<MethodChannelWebComponents>());
