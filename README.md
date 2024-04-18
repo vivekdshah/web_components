@@ -1,15 +1,25 @@
 # web_components
 
-A new Flutter project.
+Web Inbuilt Components  for your website.
 
-## Getting Started
 
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ - Customer Header
 
+## Getting started
+
+To use this package, add web_components as a dependency in your pubspec.yaml file.
+
+## Usage
+
+Minimal example:
+
+```dart
+     HeaderWidget(
+            headerTitle: 'Home',
+            backgroundColor: Colors.black,
+            centerHeader: true,
+            headerStyle: TextStyle(color: Colors.white, fontSize: 33),
+          )
+```
